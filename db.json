@@ -1,0 +1,35 @@
+{
+  "consumidores": [
+    {
+      "id": 1,
+      "nome": "Carlos Eduardo Silva",
+      "uc": "10004517",
+      "medidor": "MED-8913",
+      "transformador": "TR-101",
+      "endereco": "Av. Saul Elkind, 1200 - Cinco Conjuntos",
+      "tipo": "Residencial",
+      "ligada": true
+    },
+    {
+      "id": 2,
+      "nome": "Padaria Estrela do Norte",
+      "uc": "10004534",
+      "medidor": "MED-8926",
+      "transformador": "TR-101",
+      "endereco": "Rua Astorga, 450 - Centro",
+      "tipo": "Comercial",
+      "ligada": false
+    },
+    {
+      "id": 3,
+      "nome": "Metalúrgica Paraná Ltda",
+      "uc": "10004551",
+      "medidor": "MED-8939",
+      "transformador": "TR-102",
+      "endereco": "Av. Brasília, 3400 - Zona Industrial",
+      "tipo": "Industrial",
+      "ligada": true
+    }
+  ]
+}
+
